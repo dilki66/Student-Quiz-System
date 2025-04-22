@@ -12,3 +12,4 @@ C:\Users\User\C#\StudentManagementSystem\obj\Debug\net9.0\refint\StudentManageme
 C:\Users\User\C#\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.pdb
 C:\Users\User\C#\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.genruntimeconfig.cache
 C:\Users\User\C#\StudentManagementSystem\obj\Debug\net9.0\ref\StudentManagementSystem.dll
+C:\Users\User\C#\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.sourcelink.json
