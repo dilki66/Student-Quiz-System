@@ -13,9 +13,10 @@ static void Main (string[] args)
     Console.WriteLine(" 2. View all Student");
     Console.WriteLine(" 3. Delete Student");
     Console.WriteLine(" 4. Search Student");
-    Console.WriteLine(" 5. Exit");
+    Console.WriteLine(" 5. Quiz");
+    Console.WriteLine(" 6. Exit");
     Console.WriteLine();
-    Console.Write("Choose the option 1-5 : ");
+    Console.Write("Choose the option 1-6 : ");
     
     int choice = Int16.Parse(Console.ReadLine());
     
@@ -37,6 +38,11 @@ static void Main (string[] args)
     break;
 
     case 5:
+    Quiz quiz = new Quiz();
+    quiz.StartQuiz();
+    break;
+
+    case 6:
     running= false;
     Console.WriteLine("You have decided to Exit...!!");
     break;
